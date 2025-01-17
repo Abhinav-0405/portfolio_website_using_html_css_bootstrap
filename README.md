@@ -42,14 +42,6 @@ A fully responsive portfolio website built using **HTML**, **CSS**, and **Bootst
 2. Update text content in `index.html` to reflect your personal information.
 3. Modify colors, fonts, or layout by editing `style.css`.
 
-## Screenshots
-
-### Home Section
-![Home Section](images/profile.jpg)
-
-### Portfolio Section
-![Portfolio Projects](images/unsplash-1.jpg)
-
 ## Credits
 - **Bootstrap**: For responsive grid and design utilities.
 - **Unsplash**: Source of placeholder images.
