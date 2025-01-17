@@ -42,6 +42,14 @@ A fully responsive portfolio website built using **HTML**, **CSS**, and **Bootst
 2. Update text content in `index.html` to reflect your personal information.
 3. Modify colors, fonts, or layout by editing `style.css`.
 
+## Screenshots
+
+- **Image 1**: ![Image 1]((https://1drv.ms/i/c/01d37f05a7469544/EZ7_-qV9VQ9GtpBNIbjvx44Bu7axAYwJ0bwtGhpxlKkr0g?e=yPyu8L)))
+- **Image 2**: ![Image 2]((https://1drv.ms/i/c/01d37f05a7469544/EUFVVtDorZFIpkdr2xDcnL8BU1cKOYCXHPOiv5VLfRReTw?e=qYnB7k))
+- **Image 3**: ![Image 3]((https://1drv.ms/i/c/01d37f05a7469544/EYzvSMiTxC9KumtEfugkfhkBIqM-S9IKng5tz8rr_S1CTQ?e=drcI2i))
+- **Image 4**: ![Image 4]((https://1drv.ms/i/c/01d37f05a7469544/EXtWzgl52sxHijhrKcP57OEBH21SJL5btP0ERW7CLCzwAQ?e=YmvVDG))
+- **Image 5**: ![Image 5]((https://1drv.ms/i/c/01d37f05a7469544/EVD9k10OB4dPlP4CmhVoCHYBHZEl-U2nc9FpP4svxOyQ0Q?e=p003F0))
+
 ## Credits
 - **Bootstrap**: For responsive grid and design utilities.
 - **Unsplash**: Source of placeholder images.
